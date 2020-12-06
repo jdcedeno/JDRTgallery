@@ -42,18 +42,34 @@ function App() {
       </header>
 
       <section id="main">
-        <h1>JDRT's Gallery</h1>
+        <h1 id="main-title">JDRT's Gallery</h1>
 
         <section id="ARTWORKS">
-          <Artwork />
-          <h2>24 KARAT</h2>
-          <img src={karat24} alt="JDRT 24 karat art"/>
-          <h2>ALAVERG!</h2>
-          <img src={alaverg} alt="JDRT ALAVERG art"/>
-          <h2>ANTIPATHY</h2>
-          <img src={antipathy} alt="JDRT antipathy art"/>
-          <h2>BOCETO</h2>
-          <img src={boceto} alt="JDRT BOCETO art"/>
+          <Artwork title="ALAVERG!" image={alaverg} alt="JDRT ALAVERG! art"/>
+          <Artwork title="24 KARAT" image={karat24} alt="JDRT 24 karat art"/>
+          <Artwork title="JMELO" image={jmelo} alt=""/>
+          <Artwork title="ELON MASK 01" image={elonmask01} alt="JDRT ELON MASK 01 art"/>
+          <Artwork title="ELON MASK 02" image={elonmask02} alt=""/>
+          <Artwork title="THE FACE MASK" image={thefacemask} alt=""/>
+          <Artwork title="COOKS' KEYS" image={cookie} alt="JDRT COOKS' KEYS art"/>
+          <Artwork title="JOSE MANUEL CEDENO" image={jmc} alt=""/>
+          <Artwork title="JOSE DAVID CEDENO" image={jdc} alt=""/>
+          <Artwork title="MANUEL CEDENO" image={mc} alt=""/>
+          <Artwork title="COGNA!" image={cogna} alt="JDRT COGNA! art"/>
+          <Artwork title="BOCETO" image={boceto} alt="JDRT BOCETO art"/>
+          <Artwork title="JDRT FACES 01" image={jdrtfaces01} alt=""/>
+          <Artwork title="JDRT FACES 02" image={jdrtfaces02} alt=""/>
+          <Artwork title="JDRT FACES 03" image={jdrtfaces03} alt=""/>
+          <Artwork title="COLIBRI" image={colibri} alt="JDRT COLIBRI art"/>
+          <Artwork title="MONKEY BUSINESS" image={monkeybusiness} alt=""/>
+          <Artwork title="GAMABUNTA" image={gamabunta} alt=""/>
+          <Artwork title="GIRAFFE" image={giraffe} alt=""/>
+          <Artwork title="ZEBRA" image={zebra} alt=""/>
+          <Artwork title="MOTHER BIRD" image={motherbird} alt=""/>
+          <Artwork title="SURREAL BOAT" image={surrealboat} alt=""/>
+          <Artwork title="COUPLES THERAPY" image={couplestherapy} alt="JDRT COUPLES THERAPY art"/>
+          <Artwork title="ANTIPATHY" image={antipathy} alt="JDRT ANTIPATHY art"/>
+          <Artwork title="TOILET MEDITATION" image={toiletmeditation} alt=""/>
         </section>
 
         <section id="CONTACT">
