@@ -1,3 +1,33 @@
 img {
-    max-width: 50vw;
+    max-width: 25vw;
+}
+
+#main {
+    margin-top: 100px;
+}
+
+#header-nav {
+    position: fixed;
+    width: 100%;
+    top: 0;
+}
+
+.navbar {
+    width: 100%;
+    position: fixed;
+    top: 0;
+    background: lightgray;
+}
+
+.nav-items-row {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    list-style-type: none;
+    width: 100%;
+}
+
+#ARTWORKS {
+    display: flex;
+    flex-flow: row wrap;
 }
