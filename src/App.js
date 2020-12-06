@@ -47,29 +47,29 @@ function App() {
         <section id="ARTWORKS">
           <Artwork title="ALAVERG!" image={alaverg} alt="JDRT ALAVERG! art"/>
           <Artwork title="24 KARAT" image={karat24} alt="JDRT 24 karat art"/>
-          <Artwork title="JMELO" image={jmelo} alt=""/>
+          <Artwork title="JMELO" image={jmelo} alt="JDRT JMELO art"/>
           <Artwork title="ELON MASK 01" image={elonmask01} alt="JDRT ELON MASK 01 art"/>
-          <Artwork title="ELON MASK 02" image={elonmask02} alt=""/>
-          <Artwork title="THE FACE MASK" image={thefacemask} alt=""/>
+          <Artwork title="ELON MASK 02" image={elonmask02} alt="JDRT ELON MASK 02 art"/>
+          <Artwork title="THE FACE MASK" image={thefacemask} alt="JDRT THE FACE MASK art"/>
           <Artwork title="COOKS' KEYS" image={cookie} alt="JDRT COOKS' KEYS art"/>
-          <Artwork title="JOSE MANUEL CEDENO" image={jmc} alt=""/>
-          <Artwork title="JOSE DAVID CEDENO" image={jdc} alt=""/>
-          <Artwork title="MANUEL CEDENO" image={mc} alt=""/>
+          <Artwork title="JOSE MANUEL CEDENO" image={jmc} alt="JDRT JOSE MANUEL CEDENO art"/>
+          <Artwork title="JOSE DAVID CEDENO" image={jdc} alt="JDRT JOSE DAVID CEDENO art"/>
+          <Artwork title="MANUEL CEDENO" image={mc} alt="JDRT MANUEL CEDENO art"/>
           <Artwork title="COGNA!" image={cogna} alt="JDRT COGNA! art"/>
           <Artwork title="BOCETO" image={boceto} alt="JDRT BOCETO art"/>
-          <Artwork title="JDRT FACES 01" image={jdrtfaces01} alt=""/>
-          <Artwork title="JDRT FACES 02" image={jdrtfaces02} alt=""/>
-          <Artwork title="JDRT FACES 03" image={jdrtfaces03} alt=""/>
+          <Artwork title="JDRT FACES 01" image={jdrtfaces01} alt="JDRT FACES 01 art"/>
+          <Artwork title="JDRT FACES 02" image={jdrtfaces02} alt="JDRT FACES 02 art"/>
+          <Artwork title="JDRT FACES 03" image={jdrtfaces03} alt="JDRT FACES 03 art"/>
           <Artwork title="COLIBRI" image={colibri} alt="JDRT COLIBRI art"/>
-          <Artwork title="MONKEY BUSINESS" image={monkeybusiness} alt=""/>
-          <Artwork title="GAMABUNTA" image={gamabunta} alt=""/>
-          <Artwork title="GIRAFFE" image={giraffe} alt=""/>
-          <Artwork title="ZEBRA" image={zebra} alt=""/>
-          <Artwork title="MOTHER BIRD" image={motherbird} alt=""/>
-          <Artwork title="SURREAL BOAT" image={surrealboat} alt=""/>
+          <Artwork title="MONKEY BUSINESS" image={monkeybusiness} alt="JDRT MONKEY BUSINESS art"/>
+          <Artwork title="GAMABUNTA" image={gamabunta} alt="JDRT GAMABUNTA art"/>
+          <Artwork title="GIRAFFE" image={giraffe} alt="JDRT GIRAFFE art"/>
+          <Artwork title="ZEBRA" image={zebra} alt="JDRT ZEBRA art"/>
+          <Artwork title="MOTHER BIRD" image={motherbird} alt="JDRT MOTHER BIRD art"/>
+          <Artwork title="SURREAL BOAT" image={surrealboat} alt="JDRT SURREAL BOAT art"/>
           <Artwork title="COUPLES THERAPY" image={couplestherapy} alt="JDRT COUPLES THERAPY art"/>
           <Artwork title="ANTIPATHY" image={antipathy} alt="JDRT ANTIPATHY art"/>
-          <Artwork title="TOILET MEDITATION" image={toiletmeditation} alt=""/>
+          <Artwork title="TOILET MEDITATION" image={toiletmeditation} alt="TOILET MEDITATION"/>
         </section>
 
         <section id="CONTACT">
