@@ -27,7 +27,13 @@ img {
     width: 100%;
 }
 
+#main-title {
+    width: 100%;
+    text-align: center;
+}
+
 #ARTWORKS {
     display: flex;
     flex-flow: row wrap;
+    justify-content: space-evenly;
 }
