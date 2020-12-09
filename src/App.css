@@ -37,3 +37,18 @@ img {
     flex-flow: row wrap;
     justify-content: space-evenly;
 }
+
+.art-piece {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: solid black 2px;
+    background-color: #dddddd;
+}
+
+#CONTACT {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: gray;
+}
